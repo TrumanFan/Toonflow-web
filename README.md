@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **本仓库已归档，不再维护。**
+>
+> [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) 已升级为 monorepo，统一包含前端、后端和桌面端。前端代码现位于 [`apps/web`](https://github.com/HBAI-Ltd/Toonflow-app/tree/master/apps/web)。
+>
+> 后续下载、开发、问题反馈和 Pull Request，请统一前往 [Toonflow-app 主仓库](https://github.com/HBAI-Ltd/Toonflow-app)。
+>
+> 以下文档仅作为旧版本的历史参考，请以主仓库的最新文档为准。
+
+---
+
 <p align="center">
   <strong>中文</strong> | 
   <a href="./docs/README.en.md">English</a>
